@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+    background-color:rgb(190, 47, 47);
+}
+
+header{
+    background-color:orange;
+    color:black;
+    padding:10px;
+}
+
+header a{
+    text-decoration:none;
+    background-color:olive;
+    color:rgb(28, 94, 194);
+    padding:10px;
+    border-radius:10px;
+    margin:5px;
+}
+
+h1{
+    color:blue;
+    background-color:lightblue;
+}
+
+footer{
+    color:rgb(245, 144, 12);
+    background-color:yellow;
+
+}
+
+nav a{
+    text-decoration:none;
+    background-color:red;
+    color:olive;
+    padding:10px;
+    margin:15px;
+    border-radius:10px;
+}
+
+main{
+    padding:25px;
+}
+
+.section{
+    background-color:darkblue;
+    padding:10px;
+}
+
+.button{
+    text-decoration:none;
+    background-color: violet;
+    color:black;
+    padding:10px;
+    border-radius:10px;
+}
